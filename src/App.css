@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'DM Sans1';
+  src: url('./assets/DMSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+
+@font-face {
+  font-family: 'DM Sans2';
+  src: url('./assets/DMSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'DM Sans4';
+  src: url('./assets/DMSans_18pt-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: 'DM Sans3';
+  src: url('./assets/DMSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 400;
+}
+
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('./assets/Nunito-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+::placeholder{
+  font-family: "Nunito";
+}
