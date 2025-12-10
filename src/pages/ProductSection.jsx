@@ -29,7 +29,7 @@ const ProductSection = ({ title, items }) => {
               </p>
               <div className="w-[330px] mt-2 flex items-center justify-between relative">
                 <div className="absolute left-1/2 -translate-x-1/2 flex gap-1 items-center text-[#2E2F2E]">
-                  <p className="text-yellow-500 text-lg">
+                  <p className="text-yellow-500 text-sm">
                     {"⭐".repeat(item.rating)}
                   </p>
                   <span className="opacity-90">(52)</span>
