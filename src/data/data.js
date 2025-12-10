@@ -39,7 +39,8 @@ import appStore from "../assets/pics/image 67.svg";
 
 // BENEFIT ICON
 import benefitIcon from "../assets/pics/Frame 427319082.svg";
-
+import Katora from "../assets/pics/e69fa19e19c400e0b0cefd042d26631794272f17.gif"
+import ingredients from "../assets/pics/image 232.svg"
 export const downloadImages = {
   deco1,
   deco2,
@@ -49,6 +50,8 @@ export const downloadImages = {
   playStore,
   appStore,
   benefitIcon,
+  Katora,
+  ingredients
 };
 
 // BENEFITS LIST
@@ -58,6 +61,11 @@ export const benefits = [
   "Direct Chat with Doctors",
   "In-app reminders for consultations",
 ];
+
+export const heroText = "Shatavar";
+
+
+
 
 import logo from "../assets/pics/Amrutam.png";
 import cartIcon from "../assets/pics/Frame 1171275545.png";
@@ -89,5 +97,6 @@ export const navbarImages = {
     catBones,
     catImmunity,
     catHairCare,
+    
   ],
 };
