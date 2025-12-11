@@ -1,4 +1,4 @@
-@font-face {
+ @font-face {
   font-family: 'DM Sans1';
   src: url('./assets/fonts/DMSans-Medium.ttf') format('truetype');
   font-weight: 500;
@@ -44,4 +44,4 @@
 
 ::placeholder{
   font-family: "Nunito";
-}
+}  
