@@ -65,7 +65,7 @@ const ProductPage = () => {
           <img
             src={mainImage}
             alt={product.description}
-            className="w-[500px] h-[500px] object-cover rounded-xl mb-4"
+            className=" object-cover rounded-xl mb-4"
           />
 
           {/* Thumbnails */}
@@ -452,3 +452,5 @@ AYUSH certified and US FDA approved<br/>
 };
 
 export default ProductPage;
+
+
